@@ -6,4 +6,7 @@ const func2 = ()=>{
     console.log("Function 2");
 }
 
-//the func that was here deleated by the main branch
+const func3 = () =>{
+    console.log("function 3");
+    
+}
