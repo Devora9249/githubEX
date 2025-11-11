@@ -11,3 +11,8 @@ const func3 = ()=>{
 }
 
 
+
+
+const func4 = () =>{
+    console.log("function 4!!!!!!!!!!!");
+}
