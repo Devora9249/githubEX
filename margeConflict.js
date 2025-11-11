@@ -6,5 +6,8 @@ const func1 = ()=>{
 
 
 const func4 = () =>{
+
     console.log("function 4!!!!!!!!!!!");
+
+
 }
