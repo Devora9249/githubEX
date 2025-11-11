@@ -10,9 +10,6 @@ const func3 = ()=>{
     console.log("Function 3");
 }
 
-
-
-
 const func4 = () =>{
     console.log("function 4!!!!!!!!!!!");
 }
